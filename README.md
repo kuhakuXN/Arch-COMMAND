@@ -1,3 +1,5 @@
+ Heroic Games Launcher
+ 
     git clone https://aur.archlinux.org/snapd.git  
     cd snapd  
     makepkg -si   
