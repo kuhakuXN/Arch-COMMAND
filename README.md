@@ -5,7 +5,7 @@
     sudo pacman -S noto-fonts-emoji
 
   
--| Hyprland add 2 language |-  
+-| Hyprland add language |-  
 cd  
 ls -a  
 cd .config  
