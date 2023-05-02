@@ -1,5 +1,5 @@
 -| INSTALL JP FONT |-  
           
-              sudo pacman -S noto-fonts-cjk
-              sudo pacman -S noto-fonts
-              sudo pacman -S noto-fonts-emoji
+    sudo pacman -S noto-fonts-cjk
+    sudo pacman -S noto-fonts
+    sudo pacman -S noto-fonts-emoji
