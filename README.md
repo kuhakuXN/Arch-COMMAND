@@ -26,4 +26,4 @@ Second my HyprlandV3 not bug i don't know why
 i think it cuz i write kb_option =grp:alt_shift_toggle  
 and i use us main language Japan when install Arch It not Bug  
 BANZAI BANZAI !  
-# [![](https://cdn.donmai.us/original/1c/ca/__yumemi_riamu_idolmaster_and_2_more_drawn_by_nanameki__1cca48b2df500f49eb254a6fb81d3ec4.gif)](https://danbooru.donmai.us/posts/5992069?q=animated+gif)
+# [![](https://cdn.donmai.us/original/27/79/__musume_yuusha_no_kuse_ni_namaiki_da_and_1_more_drawn_by_osimder__2779660c66874791a52eb8387a4f8318.gif)](https://cdn.donmai.us/original/27/79/__musume_yuusha_no_kuse_ni_namaiki_da_and_1_more_drawn_by_osimder__2779660c66874791a52eb8387a4f8318.gif)
